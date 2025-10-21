@@ -5,13 +5,13 @@
 
 ## 📝 Project Description
 
-This project is a Command-Line Interface (CLI) Console application simulating a **System for Managing and Processing Student Resolution Requests (Phiếu Giải Quyết)**, typically found in a University context (HUIT). [cite\_start]The system uses the **Priority Queue** data structure to automatically sort and prioritize requests based on their content[cite: 3].
+This project is a Command-Line Interface (CLI) Console application simulating a **System for Managing and Processing Student Resolution Requests (Phiếu Giải Quyết)**, typically found in a University context (HUIT). The system uses the **Priority Queue** data structure to automatically sort and prioritize requests based on their content.
 
-[cite\_start]The priority level of each request is automatically calculated by the `PriorityService` based on a predefined list of urgent or important keywords found within the request's content[cite: 3].
+The priority level of each request is automatically calculated by the `PriorityService` based on a predefined list of urgent or important keywords found within the request's content.
 
 ## ✨ Key Features
 
-  * [cite\_start]**Priority Queue Implementation:** Manages requests (`PhieuGiaiQuyet`) with three priority levels: **HIGH (2)**, **MEDIUM (1)**, and **LOW (0)**[cite: 3].
+  * **Priority Queue Implementation:** Manages requests (`PhieuGiaiQuyet`) with three priority levels: **HIGH (2)**, **MEDIUM (1)**, and **LOW (0)**.
   * **CRUD Operations:**
       * Add a new request (`Enqueue`).
       * Remove and process the highest-priority request (`Dequeue`).
@@ -56,8 +56,8 @@ This project is a Command-Line Interface (CLI) Console application simulating a 
 | `Program.cs` | Application entry point; initializes and runs the Console UI. |
 | `ConsoleUI.cs` | Handles the command-line user interface, displays the Menu, and manages all 12 interactions/functions. |
 | `PriorityQueue.cs` | **Core Data Structure:** Implements the Priority Queue using a linked list. |
-| `PriorityService.cs` | [cite\_start]Responsible for calculating the priority level of a request based on keyword scanning[cite: 3]. |
-| `FileService.cs`, `IFileService.cs` | [cite\_start]Manages reading and writing request data to/from files[cite: 2]. |
+| `PriorityService.cs` | Responsible for calculating the priority level of a request based on keyword scanning. |
+| `FileService.cs`, `IFileService.cs` | Manages reading and writing request data to/from files. |
 | `PhieuGiaiQuyet.cs` | Defines the data models (`PhieuGiaiQuyet`, `NgayThangNam`). |
 
 ## 🤝 Contributing
