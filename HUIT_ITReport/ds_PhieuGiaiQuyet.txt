@@ -1,0 +1,21 @@
+﻿20
+2001240765|Nguyen Van Anh|15DHTH01|Xin gia han nop bai tap lon ve phat trien ung dung|28/04/2025
+2033230234|Tran Thi Thanh Nhan|14DHBM01|Thac mac ve van de an ninh mang cua he thong|10/05/2024
+2045220678|Le Minh Khoi|13DHKHDL01|Can tu van ve du an phan tich du lieu lon|15/05/2024
+2001240876|Pham Thu Diem|15DHTH02|Muon tai lieu ve an ninh mang o phong lab|20/05/2024
+2033230345|Hoang Van Hoang Duc|14DHBM02|De nghi cap nhat cac giao thuc bao mat cho website|25/05/2024
+2045220789|Vu Thi Thanh Thao|13DHKHDL02|Xin huong dan ve cac thu vien Python cho khoa hoc du lieu|30/05/2024
+2001240987|Bui Duc Nam|15DHTH03|Huy dang ky mon hoc phat trien ung dung di dong|05/06/2024
+2033230456|Dang Thi Hoai Thuong|14DHBM03|Khieu nai ve loi he thong xac thuc hai yeu to|11/06/2024
+2045220890|Nguyen Quang Hai|13DHKHDL03|Lam thu tuc xin gia han thoi gian thuc hien project ve machine learning|16/06/2024
+2001240098|Do Thu Hoai|15DHTH04|Xin cap lai mat khau tai khoan he thong quan ly sinh vien|21/06/2025
+2033230567|Dung Quang Nho|14DHBM04|Bao cao ve lo hong bao mat cua ung dung|26/06/2025
+2045220901|Nguyen Truong Huy|13DHKHDL04|Tham gia seminar ve ung dung AI trong phan tich du lieu|01/07/2024
+2001240109|Le Quoc Nam|15DHTH05|Dang ky tham gia cuoc thi lap trinh ACM|06/07/2025
+2033230678|Pham Quang Hung|14DHBM05|Tra loi thac mac ve cac phuong phap ma hoa du lieu|11/07/2024
+2045220012|Le Quang Nhat Minh|13DHKHDL05|Xin xac nhan thuc tap tai cong ty phan tich du lieu|16/03/2025
+2001240256|Hoang Xuan Phi Long|15DHTH01|Hoi ve diem chuyen can mon Cau Truc Du Lieu & Giai Thuat|21/04/2025
+2001240186|Le Thi Thu Ha|15DHTH01|De nghi bo sung cac bien phap phong chong tan cong DDoS|26/01/2025
+2045220123|Dang Van Luan|13DHKHDL06|Xin huong dan su dung cong cu visualization du lieu|12/02/2025
+2001240321|Ngo Thi Thuy Trang|15DHTH07|Thac mac ve quy trinh nop bai tap tren LMS|05/08/2024
+2033230890|Do Van Duc|14DHBM07|Gop y ve giao dien website tim kiem bat dong san (van de bao mat)|10/08/2024

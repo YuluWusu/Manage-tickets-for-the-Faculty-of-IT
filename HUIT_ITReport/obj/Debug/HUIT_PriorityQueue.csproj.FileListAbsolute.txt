@@ -1,0 +1,7 @@
+D:\2 Personal Activities\Code Folder\hk1 - nam 3\HUIT_ITReport\bin\Debug\HUIT_ITReport.exe.config
+D:\2 Personal Activities\Code Folder\hk1 - nam 3\HUIT_ITReport\bin\Debug\HUIT_ITReport.exe
+D:\2 Personal Activities\Code Folder\hk1 - nam 3\HUIT_ITReport\bin\Debug\HUIT_ITReport.pdb
+D:\2 Personal Activities\Code Folder\hk1 - nam 3\HUIT_ITReport\obj\Debug\HUIT_PriorityQueue.csproj.AssemblyReference.cache
+D:\2 Personal Activities\Code Folder\hk1 - nam 3\HUIT_ITReport\obj\Debug\HUIT_PriorityQueue.csproj.CoreCompileInputs.cache
+D:\2 Personal Activities\Code Folder\hk1 - nam 3\HUIT_ITReport\obj\Debug\HUIT_ITReport.exe
+D:\2 Personal Activities\Code Folder\hk1 - nam 3\HUIT_ITReport\obj\Debug\HUIT_ITReport.pdb
